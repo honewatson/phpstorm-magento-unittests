@@ -3,7 +3,7 @@ phpstorm magento unittests on ubuntu
 
 *cd /usr/local/bin
 
-### http://getcomposer.org/doc/00-intro.md#downloading-the-composer-executable
+# http://getcomposer.org/doc/00-intro.md#downloading-the-composer-executable
 
 *sudo curl -sS https://getcomposer.org/installer | sudo php
 
