@@ -16,4 +16,9 @@ phpstorm magento unittests on ubuntu
 
 * composer install
 
+#### Additional
+
+* create directory called tests in Magento root
+* Add file called All.php which is included in this repo
+
 #### Now watch videos in numerical order
