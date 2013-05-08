@@ -11,7 +11,9 @@ phpstorm magento unittests on ubuntu
 
 #### http://phpunit.de/manual/3.7/en/installation.html
 * sudo su
-* cd /usr/share/php
+* cd ~
+* mkdir phpunit
+* cd phpunit
 * echo '{ "require": { "phpunit/phpunit": "3.7.*" } }' >> composer.json
 
 * composer install
